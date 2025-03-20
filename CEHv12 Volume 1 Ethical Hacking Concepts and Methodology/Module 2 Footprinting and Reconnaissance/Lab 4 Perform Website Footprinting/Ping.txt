@@ -1,0 +1,11 @@
+Task 1: Gather Information About a Target Website using Ping Command Line Utility
+ICMP echo request and ICMP echo response 
+In between that we check the round trip time and record any loss of a packet
+
+ping www.certifiedhacker.com
+ping www.certifiedhacker.com -f -l 1500 
+
+-f do not fregrment 
+-l specifying buffer size 
+
+ping www.certifiedhacker.com -i 3

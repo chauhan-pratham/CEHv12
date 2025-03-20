@@ -1,0 +1,3 @@
+Task 1: Gather Employees’ Information from LinkedIn using theHarvester
+
+theHarvester -d eccouncil -l 200 -b linkedin

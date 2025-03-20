@@ -1,0 +1,4 @@
+#### Lab Objectives
+- Identify the target system’s OS using TTL and TCP window sizes with Wireshark.
+- Perform OS discovery using Nmap Script Engine (NSE).
+- Perform OS discovery using Unicornscan.

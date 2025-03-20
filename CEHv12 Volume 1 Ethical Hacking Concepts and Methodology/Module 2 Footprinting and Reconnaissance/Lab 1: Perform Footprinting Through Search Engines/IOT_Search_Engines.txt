@@ -1,2 +1,0 @@
-https://shodan.io
-https://censys.com/

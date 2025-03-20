@@ -1,1 +1,0 @@
-Objective: Identify exported directories and connected clients on an NFS server.

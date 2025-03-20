@@ -1,4 +1,0 @@
-Task 1: Find the Company’s Domains and Sub-domains using Netcraft
-https://www.netcraft.com/tools/
-Sublist3r github
-https://pentest-tools.com

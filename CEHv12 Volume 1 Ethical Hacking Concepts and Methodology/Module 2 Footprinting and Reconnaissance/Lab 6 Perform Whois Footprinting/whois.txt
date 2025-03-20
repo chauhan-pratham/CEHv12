@@ -1,5 +1,0 @@
-Task 1: Perform Whois Lookup using DomainTools
-
-https://whois.com/whois
-SmartWhois (https://www.tamos.com)
-Batch IP Converter (http://www.sabsoft.com)

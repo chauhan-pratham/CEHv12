@@ -1,3 +1,0 @@
-Task 3: Gather an Email List using theHarvester
-
-theharvester -d example.com -l 100 -b google

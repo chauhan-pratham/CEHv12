@@ -1,6 +1,0 @@
-DNS information gathering about target organizations using the  NSLOOKUP web application.
-
-http://www.kloth.net/services/nslookup.php
-
-DNSdumpster (https://dnsdumpster.com)
-DNS Records (https://network-tools.com)

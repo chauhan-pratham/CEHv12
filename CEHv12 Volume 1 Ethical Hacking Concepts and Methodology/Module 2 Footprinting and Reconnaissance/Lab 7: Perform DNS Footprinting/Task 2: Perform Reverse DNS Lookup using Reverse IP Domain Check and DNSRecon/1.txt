@@ -1,0 +1,7 @@
+Using the tool "Reverse IP Domain Check" which is present at "yougetsignal.com" we can find the other websites which uses the same web server as our target server.
+
+Then using the dnsrecon tool present in kali linux or other os we can locate a DNS PTR for IP addresses between the range like 
+
+./dnsrecon.py -r 162.241.216.0-162.241.216.255
+
+Method may be different the above is when we have .py file.

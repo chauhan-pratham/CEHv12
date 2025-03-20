@@ -1,0 +1,1 @@
+**Objective:** Gather information about DNS servers, hostnames, IP addresses, and aliases within a target domain.
